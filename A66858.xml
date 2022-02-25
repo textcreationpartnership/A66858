@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle to friends of truth and righteousness in England and Holland or elsewhere with a testimony against that spirit that speaks much of holiness and peace but leads back into the world and its pollutions where the cross of Christ is denyed / by Humphry Wollrich, written in the IIth moneth, anno 1665.</title>
+            <author>Wollrich, Humphry, 1633?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66858</idno>
+            <idno type="STC">Wing W3293</idno>
+            <idno type="STC">ESTC R26469</idno>
+            <idno type="EEBO-CITATION">09475430</idno>
+            <idno type="OCLC">ocm 09475430</idno>
+            <idno type="VID">43227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle to friends of truth and righteousness in England and Holland or elsewhere with a testimony against that spirit that speaks much of holiness and peace but leads back into the world and its pollutions where the cross of Christ is denyed / by Humphry Wollrich, written in the IIth moneth, anno 1665.</title>
+                  <author>Wollrich, Humphry, 1633?-1707.</author>
+                  <author>Cater, Samuel, d. 1711.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Another epistle to friends" (p. 5-8) signed and dated: Samuel Catur, the 19th of the 8th moneth, 1665.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43227:1"/>
+            <pb facs="tcp:43227:1" rendition="simple:additions"/>
+            <head>A General Epiſtle TO Friends of Truth and Righteouſneſs in <hi>England</hi> and <hi>Holland,</hi> or elſewhere; WITH A Teſtimony againſt that Spirit that ſpeaks much of Holineſs and Peace, but leads back into the World and its Pollutions, where the Croſs of Chriſt is denyed.</head>
+            <byline>By <hi>Humphry Wollrich.</hi>
+            </byline>
+            <div type="introduction">
+               <opener>
+                  <dateline>
+                     <date>Written in the 11th. Moneth, <hi>Anno</hi> 1665.</date>
+                  </dateline>
+                  <lb/>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>The pure Spirit of the Lord Jeſus Chriſt all wait to feel, live and move in your mortal bodies, that ſo you may by and in it witneſs acceptance with the Lord, the Father and fountain from whom every good and pure gift doth proceed and ſpring. Oh witneſs him alive in you that was dead, that ſo ye from him may receive life, as he doth from the Father, that there may be none amongſt you all that can be content to ſit down in the form without the power, or in having a name to live, but as ye feel that innocent Lamb of God live through Righteouſneſs, that hath been wounded and ſlain through tranſgresſion, out of which my ſouls deſire and prayer to the Lord, is, ye all may be preſerved in the holy, pure, and un<g ref="char:EOLhyphen"/>defiled life of the Lord Jeſus Chriſt, Amen.</p>
+            </div>
+            <div type="body_of_letter">
+               <pb n="2" facs="tcp:43227:2"/>
+               <p>THe Eternal God, Lord of Heaven and of Earth, put it in my heart to write to all Friends of truth and Righteouſneſs in general, that ye all watch and pray continually both in the day and in the night, with all your loynes girded up with the Girdle of Righteouſneſs ſtand, ſtand in faith out of all fainting or weari<g ref="char:EOLhyphen"/>neſs, thoughts and unbelief, keeping the ward of the houſe of the Lord. O dear Friends! ye that have known the Virgins ſtate, unto whom nothing in this World hath been ſo dear and lovely as the ſavour of his good Oyntment to feel, who have rejoyced in nothing ſo much as to hear the beloved Bridegrooms voice: Oh, all watch and pray, in that the eternal Spirit is the Father of, that nothing may enter in to defile the Temple of the living God; for he delights to dwell and walk therein: Oh that pure ſpring of goodneſs all wait to feel living in your own hearts, that by the ſame ye may be made willing as the holy Apoſtle was, to die daily unto all viſible and fading things, ſo that ye may be but found in him, and be eye Witneſſes of the life and power of his riſing, by which we have the anſwer of a good Conſcience in his ſight, and whereby the Kingdom and the Glory, and the great<g ref="char:EOLhyphen"/>neſs thereof is revealed and brought to light that was with the Father before the World began, which fallen man (from Gods Image) hath loſt by trangreſſion, which the Lord by his holy Spi<g ref="char:EOLhyphen"/>rit is finiſhing and puting an end unto, and in the place thereof bringing in his Everlaſting Righteouſneſs, and where ſin and ini<g ref="char:EOLhyphen"/>quity hath abounded, grace and mercy by Chriſt doth much more abound, to the glory and renown of his holy Name for evermore.</p>
+               <p>Oh dear Friends! hide not the Righteouſneſs of the Lord within your hearts, but love and follow him, that your Lights may ſhine out in the daily Croſs to ſelf, untill you come to witneſs the Baptiſm into his death, a death to all that can work without the Lord, or hunt before him, as <hi>Nimrod</hi> did, the beginning of whoſe Kingdom was <hi>Babel;</hi> or live (and feed) without the E<g ref="char:EOLhyphen"/>ternal ſpring of goodneſs, in the World in the broad and wide way that leads to deſtruction; Oh let your Light ſhine out, and have always oyle in your ſelves to keep your Lamps burning, this is to the pure praiſe of him that hath called us to glory and vertue; and
+<pb n="3" facs="tcp:43227:2" rendition="simple:additions"/>all dearly beloved Friends every where, keep out of the Worlds ſpirit and cumbrances in the ſpirit of truth, and then by the living ſpring in all ye do, will ye be guided, and thoſe things that to you have ſeemed hard and impoſſible by the feeling and guidance of the holy ſpirit will be made eaſie and pleaſant, as it is written, the Lord makes my way perfect, but the way of tranſgreſſours is hard; therefore out of thy ſelf live in the Lord, and take hold of his ſtrength, for in the Lord <hi>Jehovah</hi> is everlaſting ſtrength, in whom all the ſeed of <hi>Iſrael</hi> are juſtified, and do glory, to whom eternal glory and praiſes be given, for he is good, and his mercies endure for ever.</p>
+               <p>Oh the power of the Lord Jeſus Chriſt, let none go from that, after fables, and hats, and outward things, as ſome have done, who have been convinced of the way of Righteouſneſs, but are turned into the World from the holy Commandement, and are become dry, having (little or) nothing left but ſwelling words of vanity, whoſe root I am moved of the Lord to judge; for this was not their work whom God raiſed at firſt amongſt us, but to turn peo<g ref="char:EOLhyphen"/>ples minds to the eternal light of the Word that ſhone in their own hearts, that by it their ſouls might be ſaved in the day of the Lord, who hath ſhewed me theſe men are not of <hi>Paul</hi>'s ſpirit, but of that which did him much miſchief in withſtanding his words; for he ſaid he would not do thoſe things while the world ſtood, whereby the weak ſhould be offended; but theſe men have ſaid to me ſome of them, what need we care who is offended, ſeeing we have freedom to do the thing, theſe things I do but touch upon, for my Righteouſneſs and my peace which makes me glad is of the Lord, and the other things not worth the mentioning in compariſon thereof, but as one ſeeing the miſchief it hath done in City and Country to many ſimple hearted people, beguiled with a ſhew held forth for the ſubſtance; I could not well be ſilent any longer. And further more this is my Teſtimony in this thing, as keeping on the Hat in Prayer before the Lord in the Congre<g ref="char:EOLhyphen"/>gation of his people is not lovely, it makes not for peace, neither is it of good report before all, but ſprang from that gainſaying root, that <hi>Corah, Dathan,</hi> and <hi>Abiram</hi> joyned unto, who with a greater out-cry of holineſs then <hi>Moſes</hi> and <hi>Aaron,</hi> had roſe up a<g ref="char:EOLhyphen"/>gainſt the Lord and his anointed and hidden ones, as theſe men have done, whoſe mouths muſt be ſtopped, who ſubvert peoples
+<pb n="4" facs="tcp:43227:3"/>minds from the ſimplicity of the croſs of Chriſt, whoſe end is de<g ref="char:EOLhyphen"/>ſtruction if they repent not.</p>
+               <p>And all dear Children of the Light and of the day whom God hath bleſſed, and unto which all the promiſes are made, ſtand in the ſtrength of the Lord, and feed there out of ſelf and out of all un<g ref="char:EOLhyphen"/>belief in the feeling of the holy pure Spirit of the Lord in the goodneſs which will conſtrain thee to deny thy ſelf, ſo in him thou may be but found, ſay not in thy heart it is unpoſſible to be holy and perfect in this life, that's the Infidel and the ſpirit which the worlds life is in; <hi>David</hi> ſometime ſaid, I ſhall one day fall by the hand of <hi>Saul;</hi> and doth his promiſe fail for evermore, hath the Lord forgotten to be gracious, and will he be favourable no more? but the cauſe of this he came to ſee was miſtruſt; therefore crys he, why art thou diſquieted O my ſoul, and why art thou caſt down within me; hope thou in God, for I ſhall yet praiſe him for the health of his Countenance; and I had fainted unleſs I had be<g ref="char:EOLhyphen"/>lieved to ſee the goodneſs of the Lord in the land of the Living, I ſay let not theſe things enter you, but keep down out of them all to the holy root, with whom all things are poſſible, as ſaith the holy Apoſtle: when I am weak then am I ſtrong; and in the weakneſs is the power manifeſted; and we can do nothing as of our ſelves, but our ſufficiency is of the Lord, and I can do all things through Chriſt that ſtrengtheneth me; therefore good is it to live out of ſelf in the true poverty before him, where ſelf is humbled, cruci<g ref="char:EOLhyphen"/>fied, and made of no reputation, quiet and ſtill, but as the Lord moves and makes the way plain and perfect, ſo doth the reſt re<g ref="char:EOLhyphen"/>main and the inner gate of the Lords houſe open, and the pure ſpring iſhueth out, and the ſtream thereof makes glad the City of God, and then is the tree of life known and ſeen, (as <hi>John</hi> wit<g ref="char:EOLhyphen"/>neſſed) whoſe Leaves are for the healing of the Nations: O bleſ<g ref="char:EOLhyphen"/>ſed Nation, O happy people whoſe feet ſtand within thy Gate, O <hi>Jeruſalem!</hi> thou City of the Living God, the Tabernacle which thou haſt pitched to dwell in, with the Children of the eternal day. O my Soul bleſs thou the Lord for ever, in thy Church world without end, who hath cauſed thy glory to ſhine out of Sion clear as the Sun, fair as the Morning, and terrible as an Army with banners. Oh thy beautiful Garment, art thou cloathing thy Chil<g ref="char:EOLhyphen"/>dren withal, and with the fruit of this tree of life art thou feeding them withal, ſo that her Inhabitants may not ſay, I am ſick, the
+<pb n="5" facs="tcp:43227:3" rendition="simple:additions"/>people that dwell therein are forgiven their iniquities, ſo the eter<g ref="char:EOLhyphen"/>nal day of the Lord our God that hath enlightened the Earth from his holy Habitation be amongſt you all, (in) and over you all, Amen, Lord Jeſus Chriſt.</p>
+            </div>
+            <closer>
+               <signed>H. W.</signed>
+            </closer>
+            <trailer>Let this be ſent amongſt Friends of Truth every where to be read amongſt them, as truth in the inner parts ſhall move.</trailer>
+         </div>
+         <div type="letter">
+            <head>Another Epiſtle to Friends.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>WHom the Lord have called, from amongſt an evil and ſinful Generation, of Men and Women whoſe words, ways and actions pleaſes not the Lord, but they are a grief unto his good ſpirit, that he hath given them a meaſure of, to inſtruct them, which they have often &amp; yet do rebel againſt, for the which cauſe the Lord the righteous God of Heaven and Earth is revealing and making manifeſt his righteous judgments in the Earth, that them that ſhall be left may hear and fear the living and true God that made Heaven and Earth, and ceaſe from the fear of Men whoſe breath is in their noſtrils, for ſtrong is the Lord which is now riſen to judg the Whore; and to lay waſt Zions Oppreſſors, for this is the meſſage which I have received from the Lord, to declare and publiſh and proclaim in thy eares oh thou true <hi>Iſrael,</hi> that haſt waited for the Lord the Bridegroom of thy Soul even as for the Morning, and deſireth nothing ſo much as to be joyned, weded and married unto Chriſt the Souls reſt, and that thou uprightly walk<g ref="char:EOLhyphen"/>eſt, and patiently waiteſt upon God for power to do his will, oh you dear Children that labours to exerciſe a good conſcience to<g ref="char:EOLhyphen"/>wards God and Men, and have no end to ſelf, nor any carnal inter<g ref="char:EOLhyphen"/>eſt whatſoever, nor envy unto your Perſecutors, nor nothing in your hearts but love and good will unto all Men upon the Earth, that deſire nothing that is theirs, but are made willing to offer up freely unto the Lord all that you poſſeſs in this World, that ſo you may glorify God with your Soules and Bodies, ſo that you feel ſuch a right ſpirit in you that you dare not offer a ſacrifice un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:43227:4"/>to the Lord at another Mans coſt, but all that you deſire of the Men of this World is, but liberty to worſhip the Lord your God, according as you are perſwaded by him, and as he hath and doth reveale and manifeſt and make known himſelf by Chriſt the Light unto you, which is the way to God, I ſay unto you that thus feeles the effectual work of the Lords precious truth in your in<g ref="char:EOLhyphen"/>ward parts, in the name and power of the Lord God be patient in continuing in well doing, and the Lord will give you the deſire of your hearts, for the Lord is riſen to comfort his afflicted people, and to conſider Zion whom no Man regards, and to deliver his true <hi>Iſrael</hi> from under all their <hi>Egiptian</hi> Task-maſters which op<g ref="char:EOLhyphen"/>preſſes them with their hard Taskes, and refuſes to let you wor<g ref="char:EOLhyphen"/>ſhip the Lord your God, in that ſpirit that you have received of him, which the Lord hath in theſe latter days, according unto his promiſe poured forth upon you his ſons and daughters, that thus feels and knows your hearts and minds brought back unto God, and redeemed by his power unto him out of ſin and iniquity, that once ſeparated you from the Lord; ſo that the day and hour you now know and witneſs is come, that Chriſt ſpoke of to the Wo<g ref="char:EOLhyphen"/>man of <hi>Samaria</hi> ſhould come, that the true Worſhippers ſhould worſhip the Father in ſpirit and truth; which truth you that thus are obedient unto it, you witneſs Chriſts words fulfilled that he declared; that he declared if the truth ſhall make you free, then are you free indeed, which freedom through mercy, bleſſed be the Lord, many have obtained in this the day of his power, which you now witneſs is come that God promiſed by his Prophets ſhould come; in the which day you are made willing to do the will of God, although it be a croſs unto your own wills, and to the wills of them that are enemies unto the appearance of God in you his people in this the day of his power, and labours with all their ſtrength and might, wiſdom and policy, to ſuppreſs, Baniſh and exile this way of worſhipping of God in ſpirit, out of the Earth, or from amongſt men; that ſo they might ſet up their own traditions and carnal Ordinances, and beggerly out-ſide performances, which have not profited them that have been exerciſed therein. But oh you dear Children of the Lord that are redeemed unto God by his power, and are come beyond carnal Ordinances, &amp; have ſhook off them ragged robes of your own Righteouſneſs and out-ſide performances, and are come to feel the power of the endleſs life,
+<pb n="7" facs="tcp:43227:4"/>and the vertue of the tree of Life you now feel to nouriſh your ſouls up to Eternal life: I ſay unto you dear Brethren and Siſters, priſe this unſpeakable love and mercy of the Lord God unto your Souls, and walk humbly before the Lord, and feel his holy dread and pure fear in your hearts, that ſo you may be preſerved, and ne<g ref="char:EOLhyphen"/>ver more to depart from the Lord; then ſhall you never more be terrified with the fear of man, whoſe breath is in his Noſtrils, &amp; is but as duſt before the God of your lives; ſo in the Light dwell: and all Friends that make mention of the Lords precious Truth, and that names the Name of Chriſt keep out of iniquity, and all bow unto the appearance of Chriſt, in your inward parts, that ſo you may know him to take his Government in your hearts, that ſo you may witneſs your change wrought, and may walk in the Light, and know your paſſage from death to life; for Friends, this is the one thing moſt needful for all people upon the face of the Earth: But more eſpecially you that have receiv'd the Lords pretious Truth, that you all wait upon the Lord with a true purpoſe of heart, for an enterance more abundantly into the Eternal Inheritance; that ſo you may come to know that life to be raiſed that ſhall never die, that by it your ſouls may live when this body ſhall be no more; and all Friends I warn and charge you all in the preſence of Al<g ref="char:EOLhyphen"/>mighty God to take heed of negligence and careleſneſs, and of being indifferent in thoſe things that doth concern your Everlaſt<g ref="char:EOLhyphen"/>ing peace and Salvation of your Souls, and all ſtrive to lay hold on Eternal Life, and none to take up a reſt below or ſhort of the en<g ref="char:EOLhyphen"/>joyment of the peace of God which paſſes the underſtanding of all them that are out of it, which the Lord God is revealing &amp; ma<g ref="char:EOLhyphen"/>king known unto the ſimple hearted, that more deſires the know<g ref="char:EOLhyphen"/>ledge of his ways then any thing this world can afford: And all Friends labour to keep your minds within, unto Gods pretious truth, that ſo you may feel your bodies prepared, and your hearts enlarged to run the ways of Gods Commandements, and know the will that ſanctifies in ſoul, body, and ſpirit, then ſhall your hearts rejoyce in God your Saviour, who is now ſaving his people, and delivering them from the fears of death, and the bon<g ref="char:EOLhyphen"/>dage of Corruption; So dear Friends mind your way to paſs, which is Chriſt Jeſus the Light, and look not out, nor wander, nor gaze abroad, for they that do, will ſtumble and be taken in the E<g ref="char:EOLhyphen"/>nemy's ſnares; and none be diſcouraged at what hath or may be<g ref="char:EOLhyphen"/>fall
+<pb n="8" facs="tcp:43227:5"/>the Lords own people in this day, in which the Lord is revea<g ref="char:EOLhyphen"/>ling his Righteous Judgments in the Earth, by the which he is re<g ref="char:EOLhyphen"/>bukeing the wicked for their rebellion againſt the Truth, the light of Chriſt in their Conſciences, and for their deſpiteful uſing and perſecuting his people, which the Lord hath ſent in his Name and Power to forewarn them of the evil that is now come upon them, but they have been like the deafe Adder which have altogether refuſed to hear the voice of the Charmer, charme he never ſo wiſely, but the Lords love is unto his ſeed, and bodily exerciſe profits little, but Godlineſs is the only gain, ſo that it is certainly ſo, that when the wrath of the Lord is kindled, yea but a little, bleſſed are all they that puts their truſt in him, for they that put their truſt in the Lord, they are ſaved by his power; ſo that unto us to live is Chriſt, and to die is gain; ſo that the Righteous and the Godly receives gain by their death, but it is not ſo with them that forgets God and perſecutes his People, for their reward will be according unto their work, and therefore for the wicked it ſhall go ill with them. But I ſay unto you dear people of the moſt high God, that are come unto the Righteous Principle of God in your own hearts, it ſhall go well with you that feel that life raiſed, that <hi>Paul</hi> bleſſed and praiſed the Lord for in his day, when he ſaid, Oh Death where is thy ſting? O Grave where is thy victory<g ref="char:punc">▪</g> the ſting of Death is ſin, and the ſtrength of ſin is the Law. But thanks be to God which giveth us the victory through our Lord Jeſus Chriſt in the injoyment of the ſame life, my ſoul even prai<g ref="char:EOLhyphen"/>ſes and magnifies the Lord with all the redeemed whom the Lord has ſaved and delivered from the fears of death, and brought to know that love that is ſtronger then death. In the which power<g ref="char:EOLhyphen"/>ful love and life <hi>I</hi> dearly ſalute you all that in truth deſires peace with the Lord, unto whoſe power I commit you with my ſelf.</p>
+            <p>
+               <hi>Given forth in obedience unto the motion of the Lords Spirit in the univerſal love of God that I feel in my heart unto all that have received the Lords precious Truth, through which God is recon<g ref="char:EOLhyphen"/>ciling Man unto himſelf.</hi>
+            </p>
+            <closer>
+               <signed>SAMUEL CATUR.</signed>
+               <dateline>
+                  <date>The 19th. of 8th. Moneth, 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:43227:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
